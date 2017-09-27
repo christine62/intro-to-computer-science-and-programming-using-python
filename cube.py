@@ -19,3 +19,6 @@ if abs(guess**3-cube)>=epsilon:
     print("Failed on cube root of", cube)
 else:
     print(guess,'is close to the cube root of', cube)
+    '''
+    https://docs.python.org/3/tutorial/floatingpoint.html
+    '''
